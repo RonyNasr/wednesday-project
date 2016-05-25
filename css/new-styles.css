@@ -15,3 +15,7 @@ p.author{
   color: red;
   font-type: italic;
 }
+
+body{
+  font-family: sans-serif;
+}

@@ -1,4 +1,15 @@
-img{
-  width: 300px;
+.sidebar{
+  width: 30%;
   float: right;
+  background-color: orange;
+}
+.column {
+  width: 300px;
+  float:left;
+}
+.my-class {
+  border:2px solid green;
+  padding: 4px;
+  margin: 50px;
+  background-color: orange;
 }
